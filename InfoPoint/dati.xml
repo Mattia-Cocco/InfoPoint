@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Attenzione non modificare -->
+<root>
+    <Discoteca rating="Ottimo" oraApertura="23:10" oraChiusura="4:30" nome="Villa Bonin" citta="Padova" descrizione="Buoni drink e ottima musica" indirizzo="Prato della Valle, 2" ingresso="Si" prezzo_ingresso="10"/>
+    <Discobar rating="9" oraApertura="10" oraChiusura="3:10" nome="Cayo Blanco" citta="Sottomarina" descrizione="Sulla spiaggia, molto bello" indirizzo="Bagno Summer" postiASedere="Si" ingresso="No" prezzo_ingresso="0" costo_drink="4 ai 15"/>
+    <Ristorante rating="Buono" oraApertura="11:05" oraChiusura="00:30" nome="Belvedere" citta="Trissino" descrizione="Ottima pizza e pesce" indirizzo="Via Bellavista, 10" coperto="Si"/>
+    <Pasticceria rating="7" oraApertura="6:10" oraChiusura="19:30" nome="Bolzani" citta="Vicenza" descrizione="Ottime colazioni e buone brioches" indirizzo="Via IV Novembre, 1" specialita="Pandori" caffetteria="Si"/>
+</root>

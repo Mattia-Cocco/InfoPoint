@@ -1,0 +1,6 @@
+#include "bar."
+
+Bar::Bar()
+{
+
+}
